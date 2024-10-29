@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ihsan194
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning C, C++
+- 👀 I’m interested in programming, Web & Mobile Application development.
+- 🌱 currently learning html, css, javascript, java
 - 📫 ihsanalijamali22@gmail.com
+- 📫 https://www.linkedin.com/in/ihsan-ali-96aa47333/
 - 😄 He/Him/His
 
 <!---
